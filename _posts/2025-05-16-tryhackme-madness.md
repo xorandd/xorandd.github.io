@@ -96,7 +96,7 @@ It found some SUID binary screen 4.5.0 which is not default
 
 ![Room-picture-stego](19.png)
 
-Found exploit to this on exploitDB [https://www.exploit-db.com/exploits/41154]()
+Found exploit to this on [exploitDB](https://www.exploit-db.com/exploits/41154)
 
 Upload and run this exploit. Now we root and can get root flag!
 
