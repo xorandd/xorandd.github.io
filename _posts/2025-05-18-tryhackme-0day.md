@@ -1,6 +1,6 @@
 ---
 title: TryHackMe 0day
-catergories: [TryHackMe]
+categories: [TryHackMe]
 tags: [linux, nmap, gobuster, web, CVE-2014-6271, shellshock, CVE-2015-1328, kernel-exploit]
 media_subpath: /images/tryhackme_0day
 image:
