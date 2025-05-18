@@ -9,13 +9,15 @@ image:
 
 Room link: [https://tryhackme.com/room/0day](https://tryhackme.com/room/0day)
 
-This room started from enumerating the webpage to finding its vulnerability (Shellshock) and exploiting it gaining shell.
+This room started from enumerating the webpage to finding its vulnerability (CVE-2014-6271 - Shellshock) and exploiting it gaining shell.
+From there, a kernel exploit CVE-2015-1328 was used for privilege escalation
+
 
 ## Enumeration
 Starting off with basic nmap scan
 
 ```console
-$ nmap -p- 10.10.239.33
+$ nmap -p- 10.10.239.33	
 Nmap scan report for 10.10.239.33
 Host is up (0.029s latency).
 Not shown: 65533 closed tcp ports (reset)
