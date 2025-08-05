@@ -129,7 +129,7 @@ SMB         10.10.60.15     445    DC01             [+] SOUPEDECODE.LOCAL\FileSe
 
 ### root.txt
 
-FileServer has administrative privileges, we can use `impacket-smbexec` to run commandsn 
+FileServer has administrative privileges, we can use `impacket-smbexec` to run commands
 
 ![nxc-fileserver](nxc-fileserver.png)
 
