@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Fusion Corp
+title: TryHackMe Soupedecode 01
 categories: [TryHackMe]
 tags: [windows, Active Directory, Kerberoasting, SMB]
 media_subpath: /images/tryhackme_soupedecode01
